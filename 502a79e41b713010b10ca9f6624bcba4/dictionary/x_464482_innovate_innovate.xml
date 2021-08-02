@@ -10,5 +10,6 @@
         </element>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Short description" max_length="125" name="short_description" type="string"/>
+        <element label="Idea Implemented" max_length="40" name="u_boolean_2" type="boolean"/>
     </element>
 </database>
